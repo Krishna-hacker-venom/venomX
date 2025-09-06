@@ -36,7 +36,7 @@
 ## ⏳ Coding Activity (via WakaTime API)
 <!-- Replace 'krishnahacker' with your WakaTime username -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krishna-venom-hacker&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krishna@saroj&theme=radical&hide_border=true" />
 </p>
 
 ---
