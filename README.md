@@ -1,7 +1,7 @@
 <h1 align="center">👾 Welcome to My Hacker Space 👾</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="500" alt="Hacker animation"/>
+  <img src="https://raw.githubusercontent.com/Krishna-hacker-venom/venomX/main/venom-hacker.png" width="500" alt="Venom Hacker"/>
 </p>
 
 ---
@@ -49,9 +49,3 @@
 - 🔗 [Twitter](https://twitter.com/yourhandle)  
 - 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 - 🔗 [Blog/Portfolio](https://yourwebsite.com)  
-
----
-
-<p align="center">
-  <img src="https://i.ibb.co/2jbnL9F/venom-hacker.png" width="400" alt="Venom Hacker"/>
-</p>
