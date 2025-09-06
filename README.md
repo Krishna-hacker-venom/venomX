@@ -30,4 +30,28 @@
 ## 📊 GitHub Analytics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Krishna-hacker-venom&show_icons=true&theme=radical&hide_border=true)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-hacker-venom&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-hacker-venom&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## ⏱️ Coding Activity (via WakaTime API)
+<!-- Replace YOUR_WAKATIME_USERNAME with your actual WakaTime username -->
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&theme=radical&hide_border=true)
+
+---
+
+## 🏆 Hacker Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Krishna-hacker-venom&theme=matrix&no-frame=true&row=1&column=7)
+
+---
+
+## 🌍 Connect with Me
+- 🔗 [Twitter](https://twitter.com/yourhandle)  
+- 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🔗 [Blog/Portfolio](https://yourwebsite.com)  
+
+---
+
+<p align="center">
+  <img src="https://i.ibb.co/2jbnL9F/venom-hacker.png" width="400" alt="Venom Hacker"/>
+</p>
