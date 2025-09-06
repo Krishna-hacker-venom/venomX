@@ -1,7 +1,7 @@
 <h1 align="center">👾 Welcome to My Hacker Space 👾</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Krishna-hacker-venom/venomX/main/venom-hacker.png" width="500" alt="Venom Hacker"/>
+  <img src="https://tse1.mm.bing.net/th/id/OIP.mIw1g2a9XfB20QuwDA8eUgHaHa?cb=thfvnext&rs=1&pid=ImgDetMain&o=7&rm=3" width="500" alt="Venom Hacker"/>
 </p>
 
 ---
