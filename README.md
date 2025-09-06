@@ -30,14 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-hacker-venom&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
 
-<!-- ⏳ Coding Activity -->
-## ⏳ Coding Activity (via WakaTime API)
-<!-- Replace 'krishnahacker' with your WakaTime username -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=krishna@saroj&theme=radical&hide_border=true" />
-</p>
 
 ---
 
