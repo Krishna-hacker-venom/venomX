@@ -42,8 +42,11 @@
 - 🏅 Active learner on **TryHackMe** with multiple badges and completed rooms in web exploitation, Linux privilege escalation, and network security  
 
 <p align="center">
+  <!-- PortSwigger Badge -->
   <img src="https://img.shields.io/badge/PortSwigger%20Certified-orange?style=for-the-badge&logo=bugcrowd&logoColor=white" />
-  <img src="https://img.shields.io/badge/TryHackMe%20Achievements-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  
+  <!-- TryHackMe Badge (auto-updating) -->
+  <img src="https://tryhackme-badges.s3.amazonaws.com/KrishnaVenom.png" />
 </p>
 
 ---
@@ -51,8 +54,10 @@
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://github.com/Krishna-hacker-venom"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="https://wakatime.com/@krishnahacker"><img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=blue"></a>
-  <a href="https://buymeacoffee.com/krishnahacker"><img src="https://img.shields.io/badge/☕ Buy_Me_A_Coffee-yellow?style=for-the-badge"></a>
+
+    <!--
+    buy me a coffee
+    <a href="https://buymeacoffee.com/krishnahacker"><img src="https://img.shields.io/badge/☕ Buy_Me_A_Coffee-yellow?style=for-the-badge"></a> -->
 </p>
 
 ---
