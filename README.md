@@ -30,10 +30,7 @@
 
 ---
 
-## 🏆 Hacker Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Krishna-hacker-venom&theme=matrix&no-frame=true&margin-w=15&margin-h=15" />
-</p>
+
 
 ---
 
@@ -46,7 +43,7 @@
   <img src="https://img.shields.io/badge/PortSwigger%20Certified-orange?style=for-the-badge&logo=bugcrowd&logoColor=white" />
   
   <!-- TryHackMe Badge (auto-updating) -->
-  <img src="https://tryhackme-badges.s3.amazonaws.com/KrishnaVenom.png" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3938630" style='border:none;'></iframe>
 </p>
 
 ---
