@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/PortSwigger%20Certified-orange?style=for-the-badge&logo=bugcrowd&logoColor=white" />
   
   <!-- TryHackMe Badge (auto-updating) -->
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3938630" style='border:none;'></iframe>
+<img src="https://tryhackme-badges.s3.amazonaws.com/KrishnaVenom.png" alt="Your Image Badge" />
 </p>
 
 ---
