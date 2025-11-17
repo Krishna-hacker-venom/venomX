@@ -11,7 +11,6 @@
 - ⚡ Passionate about Cybersecurity & Automation  
 - 🛠️ Exploring APIs, hacking tools, and Linux systems  
 - 📚 Documenting my daily Python practice → [python_practice_code](https://github.com/Krishna-hacker-venom/python_practice_code)  
-- ☕ Support me on **Buy Me A Coffee** → [buymeacoffee.com/krishnahacker](https://buymeacoffee.com/krishnahacker)  
 
 ---
 
@@ -30,7 +29,10 @@
 
 ---
 
-
+## 🏆 Hacker Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Krishna-hacker-venom&theme=matrix&no-frame=true&margin-w=15&margin-h=15" />
+</p>
 
 ---
 
@@ -42,8 +44,8 @@
   <!-- PortSwigger Badge -->
   <img src="https://img.shields.io/badge/PortSwigger%20Certified-orange?style=for-the-badge&logo=bugcrowd&logoColor=white" />
   
-  <!-- TryHackMe Badge (auto-updating) -->
-<img src="https://tryhackme-badges.s3.amazonaws.com/KrishnaVenom.png" alt="Your Image Badge" />
+  <!-- TryHackMe Badge (static image) -->
+  <img src="https://tryhackme-badges.s3.amazonaws.com/KrishnaVenom.png" alt="Your Image Badge" />
 </p>
 
 ---
@@ -51,10 +53,7 @@
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://github.com/Krishna-hacker-venom"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
-
-    <!--
-    buy me a coffee
-    <a href="https://buymeacoffee.com/krishnahacker"><img src="https://img.shields.io/badge/☕ Buy_Me_A_Coffee-yellow?style=for-the-badge"></a> -->
+  <a href="https://www.linkedin.com/in/krishna-saroj-3b8068342/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
