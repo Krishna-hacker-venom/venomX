@@ -6,16 +6,15 @@
 
 ---
 
-<!-- 🧑‍💻 About Me -->
 ## 🧑‍💻 About Me
 - 👨‍💻 Ethical Hacker in training (Bug Bounty | Pentesting | CTFs)  
 - ⚡ Passionate about Cybersecurity & Automation  
 - 🛠️ Exploring APIs, hacking tools, and Linux systems  
+- 📚 Documenting my daily Python practice → [python_practice_code](https://github.com/Krishna-hacker-venom/python_practice_code)  
 - ☕ Support me on **Buy Me A Coffee** → [buymeacoffee.com/krishnahacker](https://buymeacoffee.com/krishnahacker)  
 
 ---
 
-<!-- 🚀 GitHub Stats -->
 ## 🚀 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Krishna-hacker-venom&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -24,17 +23,13 @@
 
 ---
 
-<!-- 📊 Languages -->
 ## 📊 Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishna-hacker-venom&layout=compact&theme=radical&hide_border=true" />
 </p>
 
-
-
 ---
 
-<!-- 🏆 Trophies -->
 ## 🏆 Hacker Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Krishna-hacker-venom&theme=matrix&no-frame=true&margin-w=15&margin-h=15" />
@@ -42,7 +37,17 @@
 
 ---
 
-<!-- 🔗 Connect -->
+## 🎓 Certifications & Achievements
+- ✅ Completed **PortSwigger Web Security Academy** certificate (SQLi, XSS, Authentication bypass, etc.)  
+- 🏅 Active learner on **TryHackMe** with multiple badges and completed rooms in web exploitation, Linux privilege escalation, and network security  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PortSwigger%20Certified-orange?style=for-the-badge&logo=bugcrowd&logoColor=white" />
+  <img src="https://img.shields.io/badge/TryHackMe%20Achievements-red?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</p>
+
+---
+
 ## 🔗 Connect With Me
 <p align="center">
   <a href="https://github.com/Krishna-hacker-venom"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -52,7 +57,7 @@
 
 ---
 
-<!-- 🕷️ Venom Quote -->
+## 🕷️ Venom Quote
 <p align="center">
   <i>"The secret to hacking is not breaking systems… it's breaking limits." 🕷️</i>
 </p>
